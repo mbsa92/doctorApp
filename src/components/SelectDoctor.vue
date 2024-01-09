@@ -4,7 +4,7 @@
         <v-row>
             <v-col cols="4">
                 <v-select
-                    label="Select"
+                    label="Select trial number"
                     :items="metadata"
                     item-title="trial_number"
                     item-value="id"
